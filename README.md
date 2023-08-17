@@ -15,7 +15,7 @@ Unterschiede von Skript 1 zu den anderen Skripten:
 - Es gibt keine Subpixel oder Raketen.
 - Explosionen bestehen aus einer Gruppe von Pixeln, die in zufälligen Winkeln explodieren.
 
-<img src="bilder/readme_pic_001.jpg" alt="Alternativer Text" width="50%" height="50%">
+<img src="bilder/readme_pic_001.jpg" alt="Alternativer Text" width="70%" height="70%">
 
 ### feuerwerk_v2.py: Pixel Fireworks mit Subpixeln
 
@@ -30,7 +30,7 @@ Unterschiede von Skript 2 zu den anderen Skripten:
 - Es gibt Subpixel, die aus den Hauptpixeln explodieren.
 - Es gibt keine Raketen.
 
-<img src="bilder/readme_pic_002.jpg" alt="Alternativer Text" width="50%" height="50%">
+<img src="bilder/readme_pic_002.jpg" alt="Alternativer Text" width="70%" height="70%">
 
 ### feuerwerk_v3.py: Pixel Fireworks mit Raketen
 
@@ -44,7 +44,7 @@ Unterschiede von Skript 3 zu den anderen Skripten:
 - Es gibt Raketen, die aufsteigen und explodieren.
 - Explosionen werden von Raketen ausgelöst.
 
-<img src="bilder/readme_pic_003.jpg" alt="Alternativer Text" width="50%" height="50%">
+<img src="bilder/readme_pic_003.jpg" alt="Alternativer Text" width="70%" height="70%">
 
 ### Gemeinsame Punkte und Lerneffekte:
 
