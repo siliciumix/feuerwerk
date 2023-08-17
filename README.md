@@ -1,7 +1,5 @@
 # feuerwerk
 
-Selbstverständlich, ich werde die drei Python-Skripte ausführlich für Anfänger erklären und die Unterschiede zwischen ihnen hervorheben.
-
 ### feuerwerk_v1.py: Pixel Fireworks
 
 Dieses Skript erstellt ein einfaches Feuerwerkssimulationsspiel mit Pixeln.
